@@ -680,16 +680,6 @@ vertical_alignment = 1
 [node name="coin15" parent="GameManager/Label4" instance=ExtResource("4_lkag5")]
 position = Vector2(99, 27)
 
-[node name="Label5" type="Label" parent="GameManager"]
-offset_left = 699.0
-offset_top = -282.0
-offset_right = 929.0
-offset_bottom = -228.0
-theme_override_fonts/font = ExtResource("7_uake0")
-theme_override_font_sizes/font_size = 8
-text = "You collected :    x 0"
-vertical_alignment = 1
-
 [node name="Label3" type="Label" parent="GameManager"]
 offset_left = 225.0
 offset_top = 40.0

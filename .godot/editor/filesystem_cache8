@@ -1,8 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1714633828
+::res://::1714728429
 default_bus_layout.tres::AudioBusLayout::5880855834560911878::1714572572::0::1::::<><>::
-export_presets.cfg::TextFile::-1::1714630323::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1714633847::0::1::::<><>::
 icon.svg::CompressedTexture2D::2259834083326785961::1706817158::1714495675::1::::<><>::
+README.md::TextFile::-1::1714728155::0::1::::<><>::
 ::res://assets/::1714576684
 icon.png::CompressedTexture2D::6278154322082837044::1714576682::1714576684::1::::<><>::
 ::res://assets/fonts/::1714475923
@@ -25,7 +26,6 @@ platforms.png::CompressedTexture2D::7730117796873004796::1714475638::1714475923:
 slime_green.png::CompressedTexture2D::127515790616758026::1714475638::1714475923::1::::<><>::
 slime_purple.png::CompressedTexture2D::9101671343388465650::1714475638::1714475923::1::::<><>::
 world_tileset.png::CompressedTexture2D::8617037845821454519::1714475638::1714475924::1::::<><>::
-::res://linux/::1714633791
 ::res://scenes/::1714630636
 coin.tscn::PackedScene::9039358988866833791::1714577212::0::1::::<><>::uid://cmlm60euwm6j7::::res://assets/sprites/coin.png<>res://scripts/coin.gd<>uid://cyw56ku4te2n5::::res://assets/sounds/coin.wav
 game.tscn::PackedScene::8184712576129212658::1714630636::0::1::::<><>::uid://cmlm60euwm6j7::::res://assets/sprites/coin.png<>res://scripts/GameManager.gd<>uid://xmy1ysritap3::::res://scenes/player.tscn<>uid://du1fmbvujheip::::res://assets/sprites/world_tileset.png<>uid://dru7mttx2wskh::::res://assets/fonts/PixelOperator8-Bold.ttf<>uid://dtsqje5uu086x::::res://scenes/platform.tscn<>uid://d11y6lxtd11lb::::res://scenes/coin.tscn<>uid://h3gd7lv1x3kg::::res://scenes/killzone.tscn<>uid://cn0notr52k8xm::::res://scenes/slime.tscn<>uid://c1p3tw7yamqxe::::res://assets/fonts/PixelOperator8.ttf<>uid://cajt7yeg7u18l::::res://scenes/music.tscn
